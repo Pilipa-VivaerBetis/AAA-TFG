@@ -69,48 +69,48 @@ php artisan serve
 
 🖼️ Funcionalidades principales
 🧑‍🎓 Usuarios normales:
-Registro y login
-
-Buscar compañeros por nombre, curso, colegio, etc.
-
-Enviar y recibir mensajes
-
-Ver historial de conversaciones
-
-Actualizar datos del perfil
+    Registro y login
+    
+    Buscar compañeros por nombre, curso, colegio, etc.
+    
+    Enviar y recibir mensajes
+    
+    Ver historial de conversaciones
+    
+    Actualizar datos del perfil
 
 🧑‍💼 Administradores:
-Panel de tareas
-
-Visualización de mensajes enviados
-
-Asignación automática de tareas al recibir mensajes
-
-Gestión de usuarios
+    Panel de tareas
+    
+    Visualización de mensajes enviados
+    
+    Asignación automática de tareas al recibir mensajes
+    
+    Gestión de usuarios
 
 🧪 Pruebas y seguridad
-✅ Hash de contraseñas con bcrypt
-
-✅ Rutas protegidas según el rol
-
-✅ Validación en formularios
-
-✅ Manejo de sesiones y logout
-
-✅ Pruebas funcionales básicas
+    ✅ Hash de contraseñas con bcrypt
+    
+    ✅ Rutas protegidas según el rol
+    
+    ✅ Validación en formularios
+    
+    ✅ Manejo de sesiones y logout
+    
+    ✅ Pruebas funcionales básicas
 
 📄 Licencia
-Este proyecto ha sido desarrollado como parte del Trabajo de Fin de Grado en DAW.
-Uso educativo y sin fines comerciales.
+    Este proyecto ha sido desarrollado como parte del Trabajo de Fin de Grado en DAW.
+    Uso educativo y sin fines comerciales.
 
 📚 Bibliografía y recursos consultados
-Laravel Documentation
-
-Bootstrap 5
-
-YouTube - Laravel + Herd
-
-GitHub Docs
+    Laravel Documentation
+    
+    Bootstrap 5
+    
+    YouTube - Laravel + Herd
+    
+    GitHub Docs
 
 💬 Contacto
 📧 pilipa2000@gmail.com
@@ -188,50 +188,51 @@ php artisan migrate
 
 # Start development server
 php artisan serve
+
 🖼️ Main Features
 👩‍🎓 For users:
-Register and log in
-
-Search classmates by school, year, etc.
-
-Send and receive messages
-
-View conversation history
-
-Edit their own profile
+    Register and log in
+    
+    Search classmates by school, year, etc.
+    
+    Send and receive messages
+    
+    View conversation history
+    
+    Edit their own profile
 
 👨‍💼 For administrators:
-Task dashboard
-
-View all messages
-
-Automatic task creation for each message
-
-Manage users and roles
+    Task dashboard
+    
+    View all messages
+    
+    Automatic task creation for each message
+    
+    Manage users and roles
 
 🔐 Security & Usability
-Secure password hashing (bcrypt)
-
-Role-based route protection
-
-Form validation
-
-Smooth session handling
-
-Lightweight and responsive UI
+    Secure password hashing (bcrypt)
+    
+    Role-based route protection
+    
+    Form validation
+    
+    Smooth session handling
+    
+    Lightweight and responsive UI
 
 📄 License
 This project was developed as part of a Final Degree Project (TFG).
 Educational use only. Not for commercial distribution.
 
 📚 References
-Laravel Documentation
-
-Bootstrap 5
-
-YouTube: Laravel + Herd
-
-GitHub Docs
+    Laravel Documentation
+    
+    Bootstrap 5
+    
+    YouTube: Laravel + Herd
+    
+    GitHub Docs
 
 📬 Contact
 📧 pilipa2000@gmail.com
