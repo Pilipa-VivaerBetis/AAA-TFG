@@ -120,9 +120,7 @@ php artisan serve
 Si tienes sugerencias, no dudes en abrir un issue o contactarme.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🇬🇧 README.md – English Version
-markdown
-Copiar
-Editar
+
 # 🎓 Final Project: Alumni Web Application
 
 **👤 Author:** Pilar Pagés Vallejo  
